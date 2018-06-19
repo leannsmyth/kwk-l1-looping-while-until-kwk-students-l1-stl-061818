@@ -11,3 +11,8 @@ end
 end
 
 spell
+
+
+def spell2
+  counter = 6
+until counter 

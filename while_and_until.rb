@@ -1,4 +1,4 @@
 def spell
-  counter = 0
+  counter = 6
   
-while counter = 
+while counter = <10

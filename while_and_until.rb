@@ -1,2 +1,3 @@
 def spell
-  counter = 
+  counter = 0
+  

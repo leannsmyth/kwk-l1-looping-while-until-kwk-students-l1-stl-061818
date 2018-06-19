@@ -18,3 +18,8 @@ def spell2
 until counter == 0 do
   puts "Wingardium Leviosa"
 counter -= 1
+
+end
+end
+ spell2
+ 

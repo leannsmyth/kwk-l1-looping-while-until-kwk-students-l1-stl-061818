@@ -4,3 +4,4 @@ def spell
 while counter = <10
  puts "Wingardium Leviosa"
  
+counter 

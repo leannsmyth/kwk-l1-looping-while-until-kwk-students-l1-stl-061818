@@ -15,4 +15,4 @@ spell
 
 def spell2
   counter = 6
-until counter 
+until counter == 0 do
